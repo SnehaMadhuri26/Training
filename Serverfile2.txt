@@ -1,3 +1,7 @@
 This is edited server file
 This is fourth time edit
+<<<<<<< HEAD
 This is my file I want to commit changes and this willmake big challenge now
+=======
+I am editing from the server side and it is also fifth time
+>>>>>>> d101b0252c6a465b124e74aa14cdef3f90b749e2
